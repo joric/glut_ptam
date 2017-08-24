@@ -1,5 +1,5 @@
 GLUT PTAM
 =========
 
-OpenCV PTAM checkerboard calibration and tracking with GLUT
+OpenCV PTAM (Parallel Tracking And Mapping) example with checkerboards and GLUT
 
